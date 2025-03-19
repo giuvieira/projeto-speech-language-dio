@@ -1,0 +1,87 @@
+Analyzed sentiment
+Document sentiment
+negative
+Confidence: 0.00%
+0.00%
+Positive
+1.00%
+Neutral
+99.00%
+Negative
+Sentence 1
+
+Sentence sentiment
+neutral
+Confidence: 0.00%
+0.00%
+Positive
+77.00%
+Neutral
+23.00%
+Negative
+Sentence 2
+
+Sentence sentiment
+negative
+Confidence: 0.00%
+0.00%
+Positive
+0.00%
+Neutral
+100.00%
+Negative
+Sentence 3
+
+Sentence sentiment
+neutral
+Confidence: 8.00%
+8.00%
+Positive
+91.00%
+Neutral
+1.00%
+Negative
+Sentence 4
+
+Sentence sentiment
+neutral
+Confidence: 1.00%
+1.00%
+Positive
+94.00%
+Neutral
+5.00%
+Negative
+Sentence 5
+
+Sentence sentiment
+negative
+Confidence: 0.00%
+0.00%
+Positive
+3.00%
+Neutral
+97.00%
+Negative
+Sentence 6
+
+Sentence sentiment
+negative
+Confidence: 0.00%
+0.00%
+Positive
+0.00%
+Neutral
+100.00%
+Negative
+Sentence 7
+
+Sentence sentiment
+neutral
+Confidence: 31.00%
+31.00%
+Positive
+63.00%
+Neutral
+6.00%
+Negative

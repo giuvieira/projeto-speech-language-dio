@@ -1,0 +1,95 @@
+{
+    "documents": [
+        {
+            "id": "id__2798",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0.01,
+                "negative": 0.99
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.77,
+                        "negative": 0.23
+                    },
+                    "offset": 0,
+                    "length": 23,
+                    "text": "Кто-то стучал в дверь. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 23,
+                    "length": 106,
+                    "text": "Он не знал, кто это, но почувствовал с неприятным предчувствием, что это должен быть кто-то очень важный. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.91,
+                        "negative": 0.01
+                    },
+                    "offset": 129,
+                    "length": 48,
+                    "text": "Он быстро встал, надел халат и побежал к двери. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.94,
+                        "negative": 0.05
+                    },
+                    "offset": 177,
+                    "length": 69,
+                    "text": "Уже стоя перед ней, он на мгновение остановился, прежде чем открыть. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.03,
+                        "negative": 0.97
+                    },
+                    "offset": 246,
+                    "length": 31,
+                    "text": "Что-то заставило его замереть. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 277,
+                    "length": 116,
+                    "text": "Чувство неопределенности охватило его, ощущение, что он может делать что-то неправильное, но он уже принял решение. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.31,
+                        "neutral": 0.63,
+                        "negative": 0.06
+                    },
+                    "offset": 393,
+                    "length": 15,
+                    "text": "Он открыл дверь"
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
