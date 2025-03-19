@@ -1,0 +1,882 @@
+[
+    {
+        "Id": "9c9c8534fea443f6b2d4865d0873569e",
+        "RecognitionStatus": 0,
+        "Offset": 78700000,
+        "Duration": 138800000,
+        "Channel": 0,
+        "DisplayText": "T'es la meilleure chose qui m'est arrivé, mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré. J'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé.",
+        "NBest": [
+            {
+                "Confidence": 0.83036643,
+                "Lexical": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "ITN": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "MaskedITN": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "Display": "T'es la meilleure chose qui m'est arrivé, mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré. J'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé.",
+                "Words": [
+                    {
+                        "Word": "t'es",
+                        "Offset": 78700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 109100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "meilleure",
+                        "Offset": 111100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 118300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 121500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 123100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 126300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 135900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aussi",
+                        "Offset": 137500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 140300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "pire",
+                        "Offset": 142300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 145900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 149100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 150700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 153500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 162300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "où",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "je",
+                        "Offset": 166300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "t'ai",
+                        "Offset": 167500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "rencontré",
+                        "Offset": 170300000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "j'aurais",
+                        "Offset": 179100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "peut",
+                        "Offset": 183100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "être",
+                        "Offset": 184300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "préféré",
+                        "Offset": 186300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 193100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 194700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 196300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ne",
+                        "Offset": 199900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "soit",
+                        "Offset": 201100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "jamais",
+                        "Offset": 203100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 207900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 213900000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.832269,
+                "Lexical": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "ITN": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "MaskedITN": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "Display": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "Words": [
+                    {
+                        "Word": "t'es",
+                        "Offset": 78700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 109100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "meilleure",
+                        "Offset": 111100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 118300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 121500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 123100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "arrivée",
+                        "Offset": 126300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 135900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aussi",
+                        "Offset": 137500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 140300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "pire",
+                        "Offset": 142300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 145900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 149100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 150700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 153500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 162300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "où",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "je",
+                        "Offset": 166300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "t'ai",
+                        "Offset": 167500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "rencontré",
+                        "Offset": 170300000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "j'aurais",
+                        "Offset": 179100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "peut",
+                        "Offset": 183100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "être",
+                        "Offset": 184300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "préféré",
+                        "Offset": 186300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 193100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 194700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 196300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ne",
+                        "Offset": 199900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "soit",
+                        "Offset": 201100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "jamais",
+                        "Offset": 203100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 207900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 213900000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8253313,
+                "Lexical": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "ITN": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "MaskedITN": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "Display": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "Words": [
+                    {
+                        "Word": "t'es",
+                        "Offset": 78700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 109100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "meilleure",
+                        "Offset": 111100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 118300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 121500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 123100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 126300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 135900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aussi",
+                        "Offset": 137500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 140300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "pire",
+                        "Offset": 142300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 145900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 149100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 150700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "arrivée",
+                        "Offset": 153500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 162300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "où",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "je",
+                        "Offset": 166300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "t'ai",
+                        "Offset": 167500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "rencontré",
+                        "Offset": 170300000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "j'aurais",
+                        "Offset": 179100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "peut",
+                        "Offset": 183100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "être",
+                        "Offset": 184300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "préféré",
+                        "Offset": 186300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 193100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 194700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 196300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ne",
+                        "Offset": 199900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "soit",
+                        "Offset": 201100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "jamais",
+                        "Offset": 203100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 207900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 213900000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8255871,
+                "Lexical": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrive",
+                "ITN": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrive",
+                "MaskedITN": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrive",
+                "Display": "t'es la meilleure chose qui m'est arrivé mais aussi la pire chose qui m'est arrivé ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrive",
+                "Words": [
+                    {
+                        "Word": "t'es",
+                        "Offset": 78700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 109100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "meilleure",
+                        "Offset": 111100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 118300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 121500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 123100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 126300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 135900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aussi",
+                        "Offset": 137500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 140300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "pire",
+                        "Offset": 142300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 145900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 149100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 150700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 153500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 162300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "où",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "je",
+                        "Offset": 166300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "t'ai",
+                        "Offset": 167500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "rencontré",
+                        "Offset": 170300000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "j'aurais",
+                        "Offset": 179100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "peut",
+                        "Offset": 183100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "être",
+                        "Offset": 184300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "préféré",
+                        "Offset": 186300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 193100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 194700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 196300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ne",
+                        "Offset": 199900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "soit",
+                        "Offset": 201100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "jamais",
+                        "Offset": 203100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 207900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "arrive",
+                        "Offset": 213900000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.82723385,
+                "Lexical": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "ITN": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "MaskedITN": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "Display": "t'es la meilleure chose qui m'est arrivée mais aussi la pire chose qui m'est arrivée ce jour où je t'ai rencontré j'aurais peut être préféré que ce jour ne soit jamais arrivé arrivé",
+                "Words": [
+                    {
+                        "Word": "t'es",
+                        "Offset": 78700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 109100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "meilleure",
+                        "Offset": 111100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 118300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 121500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 123100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "arrivée",
+                        "Offset": 126300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 135900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aussi",
+                        "Offset": 137500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "la",
+                        "Offset": 140300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "pire",
+                        "Offset": 142300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "chose",
+                        "Offset": 145900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "qui",
+                        "Offset": 149100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "m'est",
+                        "Offset": 150700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "arrivée",
+                        "Offset": 153500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 162300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "où",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "je",
+                        "Offset": 166300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "t'ai",
+                        "Offset": 167500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "rencontré",
+                        "Offset": 170300000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "j'aurais",
+                        "Offset": 179100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "peut",
+                        "Offset": 183100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "être",
+                        "Offset": 184300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "préféré",
+                        "Offset": 186300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 193100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ce",
+                        "Offset": 194700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "jour",
+                        "Offset": 196300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ne",
+                        "Offset": 199900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "soit",
+                        "Offset": 201100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "jamais",
+                        "Offset": 203100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 207900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "arrivé",
+                        "Offset": 213900000,
+                        "Duration": 3600000
+                    }
+                ]
+            }
+        ]
+    }
+]
